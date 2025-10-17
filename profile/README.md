@@ -1,3 +1,3 @@
-# CurtainCrew
+# CURTAINCREW
 # ![Niko](img/niko-jam.gif)
 We make the... [<b>Behind the Curtain<b>](https://github.com/CurtainCrew/BehindTheCurtain)...
